@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Php, JavaScript and Wordpress.**
 
-- 🤝 I’m looking for help with **JavaScript**
+- 🤝 I’m looking for help with **JavaScript, Php and Java**
 
 - 💬 Ask me about **html,css, php, javascript and anything about web development**
 
