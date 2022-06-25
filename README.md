@@ -20,7 +20,7 @@ You can find me 🌍:
 - [Youtube](https://www.youtube.com/channel/UC84ODj-edCCupUleUy3H7Sg)
 - [Twitter](https://twitter.com/SkkuLLL)
  
-
+[![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=iperezc9)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ⭐️ From [M0nica](https://github.com/M0nica)
 
