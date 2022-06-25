@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **isma.perez1smr@gmail.com**
 
-- ⚡ Fun fact **Coffee and development**
+- ⚡ Fun fact **Development and coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
