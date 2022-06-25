@@ -9,6 +9,18 @@ Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 -->
 
+```js 
+const ismael = {
+  technologies: 'web',
+  passions: ['perfomance web', 'web development']
+}
+```
+
+You can find me 🌍:
+- [Youtube](https://www.youtube.com/channel/UC84ODj-edCCupUleUy3H7Sg)
+- [Twitter](https://twitter.com/SkkuLLL)
+ 
+
 ---
 ⭐️ From [M0nica](https://github.com/M0nica)
 
